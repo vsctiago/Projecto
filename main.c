@@ -33,7 +33,7 @@ typedef struct {
 
 typedef struct {
     unsigned short int ind_regional, numero1, numero2;
-} telefone;
+} telefon;
 
 typedef enum {
     UM, DOIS, TRES, QUATRO, CINCO, SEIS, SETE, OITO, NOVE, DEZ, ONZE,
