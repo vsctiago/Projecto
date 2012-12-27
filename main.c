@@ -29,7 +29,7 @@ typedef struct {
     unsigned short int numero;
     cod_postal cod_postal;
     char localidade[SIZE];
-} morada;
+} morad;
 
 typedef struct {
     unsigned short int ind_regional, numero1, numero2;
